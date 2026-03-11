@@ -7,10 +7,10 @@
 
 Enta Keralam is a platform dedicated to showcasing all cultural, religious, and traditional events happening across Kerala.
 
-From temple festivals 🛕  
-To mosque programs 🕌  
-To church feasts ⛪  
-To art forms like Kathakali & Theyyam 🎭  
+From temple festivals 
+To mosque programs  
+To church feasts   
+To art forms like Kathakali & Theyyam 
 
 We bring everything together in one unified platform for tourists, locals, and international visitors.
 
