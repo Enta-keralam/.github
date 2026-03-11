@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Enta Keralam Banner" width="100%" />
+  <img src="https://github.com/Enta-keralam/.github/blob/main/profile/Screenshot%202026-03-11%20202039.png?raw=true" alt="Enta Keralam Banner" width="100%" />
 </p>
 
 <h1 align="center">🌴 Enta Keralam</h1>
