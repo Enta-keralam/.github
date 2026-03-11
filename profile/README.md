@@ -19,12 +19,12 @@ We bring everything together in one unified platform for tourists, locals, and i
 ## 🌍 What We Offer
 
 - 📅 Upcoming Events Calendar  
-- 🛕 Temple Festivals  
-- 🕌 Islamic Programs  
-- ⛪ Church Feasts  
-- 🎭 Cultural Performances  
-- 📍 Location & Travel Info  
-- 📸 Media & Highlights  
+- Temple Festivals  
+- Islamic Programs  
+- Church Feasts  
+- Cultural Performances  
+- Location & Travel Info  
+- Media & Highlights  
 
 ---
 
