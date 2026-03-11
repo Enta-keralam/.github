@@ -3,11 +3,6 @@
 </p>
 
 <h1 align="center">🌴 Enta Keralam</h1>
-
-<p align="center">
-  <strong>Experience Kerala Culture, Festivals & Traditions — All in One Place</strong>
-</p>
-
 ---
 
 Enta Keralam is a platform dedicated to showcasing all cultural, religious, and traditional events happening across Kerala.
