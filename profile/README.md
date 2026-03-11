@@ -1,6 +1,14 @@
-# 🌴 Enta Keralam
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Enta Keralam Banner" width="100%" />
+</p>
 
-**Experience Kerala Culture, Festivals & Traditions — All in One Place**
+<h1 align="center">🌴 Enta Keralam</h1>
+
+<p align="center">
+  <strong>Experience Kerala Culture, Festivals & Traditions — All in One Place</strong>
+</p>
+
+---
 
 Enta Keralam is a platform dedicated to showcasing all cultural, religious, and traditional events happening across Kerala.
 
@@ -15,13 +23,13 @@ We bring everything together in one unified platform for tourists, locals, and i
 
 ## 🌍 What We Offer
 
-- 📅 Upcoming Events Calendar
-- 🛕 Temple Festivals
-- 🕌 Islamic Programs
-- ⛪ Church Feasts
-- 🎭 Cultural Performances
-- 📍 Location & Travel Info
-- 📸 Media & Highlights
+- 📅 Upcoming Events Calendar  
+- 🛕 Temple Festivals  
+- 🕌 Islamic Programs  
+- ⛪ Church Feasts  
+- 🎭 Cultural Performances  
+- 📍 Location & Travel Info  
+- 📸 Media & Highlights  
 
 ---
 
@@ -45,4 +53,6 @@ Coming Soon...
 
 ---
 
-Made with ❤️ from Kerala
+<p align="center">
+  Made with ❤️ from Kerala
+</p>
